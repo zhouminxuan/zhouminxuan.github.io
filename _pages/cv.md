@@ -11,46 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of California San Diego, 2023
+* M.S. in Computer Science, University of California San Diego, 2017
+* B.S. in Computer Science and Technology, Beihang University, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 08/2024: Assistant Professor
+  * Illinois Institute of Technology
+  * Chicago, IL, USA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09/2023 - 08/2024: Postdoctoral Researcher
+  * University of California San Diego
+  * La Jolla, CA, USA
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 06/2022 - 08/2023: Security Hardware Research Intern
+  * Intel Labs
+  * Remote
+
+* 06/2021 - 09/2021: Machine Learning Research Intern
+  * Apple Inc.
+  * Remote
+
+* 06/2020 - 09/2020: PHD Intern
+  * Meta
+  * Remote
+
+* 06/2019 - 09/2019: Research Intern
+  * Alibaba Group
+  * Sunnyvale, CA, USA
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -61,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* TPC: DAC 2025
