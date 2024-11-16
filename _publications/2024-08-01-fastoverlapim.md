@@ -1,7 +1,7 @@
 ---
 title: "Fast-OverlaPIM: A Fast Overlap-driven Mapping Framework for Processing In-Memory Neural Network Acceleration"
 collection: publications
-category: manuscripts
+category: peerreview
 permalink: /publication/2024-08-01-fastoverlapim
 date: 2024-08-01
 venue: 'IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)'

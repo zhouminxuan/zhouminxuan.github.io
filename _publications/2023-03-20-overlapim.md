@@ -1,7 +1,7 @@
 ---
 title: "OverlaPIM: Overlap Optimization for Processing In-Memory Neural Network Acceleration"
 collection: publications
-category: conferences
+category: peerreview
 permalink: /publication/2023-03-20-overlapim
 date: 2023-03-20
 venue: 'Design, Automation and Test in Europe Conference (DATE)'
