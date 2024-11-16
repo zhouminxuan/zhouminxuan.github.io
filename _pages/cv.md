@@ -55,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* TPC: DAC 2025
+* TPC: DAC 2025, ISCA 2025 Industrial Track
