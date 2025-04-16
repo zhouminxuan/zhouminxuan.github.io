@@ -41,7 +41,7 @@ Work experience
   * Alibaba Group
   * Sunnyvale, CA, USA
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -52,7 +52,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
+   
 Service and leadership
 ======
 * TPC: DAC 2025, ISCA 2025 Industrial Track
