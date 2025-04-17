@@ -20,7 +20,7 @@ News
 <a id="publication">Publications</a>
 ======
 
-**OptiPIM: Optimizing Processing In-Memory Acceleration Using Integer Linear Programming**
+**OptiPIM: Optimizing Processing In-Memory Acceleration Using Integer Linear Programming**  
 Jiantao Liu\*, Minxuan Zhou\*, Yue Pan, Chien-Yi Yang, Lana Josipovic, and Tajana Rosing  
 ISCA 2025 (to appear)  
 \* equal contribution
