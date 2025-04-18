@@ -13,9 +13,11 @@ I'm an Assistant Professor in the Department of [Computer Science](https://www.i
 
 News
 ======
-**03/2025:** Two papers accepted in the 52nd IEEE/ACM International Symposium on Computer Architecture (ISCA'25)!  
-**01/2025:** FHEmem paper accepted in IEEE Transactions on Emerging Topics in Computing (TETC)!  
-**11/2024:** UFC paper presented in 57th IEEE/ACM International Symposium on Microarchitecture (MICRO'24)!
+**03/2025:** Two papers accepted in ISCA 2025!  
+**03/2025:** Serve as TPC member for ISCA 2025 Industry Track.  
+**02/2025:** Serve as TPC member for DAC 2025.  
+**01/2025:** FHEmem paper accepted in IEEE TETC!  
+**11/2024:** UFC paper presented in MICRO 2024!
 
 <a id="publication">Publications</a>
 ======
