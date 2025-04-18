@@ -55,7 +55,7 @@ DAC 2024
 
 **Fast-OverlaPIM: A Fast Overlap-driven Mapping Framework for Processing In-Memory Neural Network Acceleration**  
 Xuan Wang\*, Minxuan Zhou\*,and Tajana Rosing  
-IEEE TCAD 2024
+IEEE TCAD 2024  
 \* equal contribution
 
 **HygHD: Hyperdimensional Hypergraph Learning**  
@@ -68,7 +68,7 @@ ASP-DAC 2024
 
 **Abakus: Accelerating k-mer Counting With Storage Technology**  
 Lingxi Wu\*, Minxuan Zhou\*, Weihong Xu, Ashish Venkat, Tajana Rosing, and Kevin Skadron  
-ACM TACO 2024
+ACM TACO 2024  
 \* equal contribution
 
 **Efficient Machine Learning on Encrypted Data using Hyperdimensional Computing**  
@@ -77,7 +77,7 @@ ISLPED 2023
 
 **OverlaPIM: Overlap Optimization for Processing In-Memory Neural Network Acceleration**  
 Minxuan Zhou\*, Xuan Wang\*, and Tajana Rosing  
-DATE 2023
+DATE 2023  
 \* equal contribution
 
 **RelHD: A Lightweight Graph-based Learning with Hyperdimensional Computing**  
@@ -86,7 +86,7 @@ ICCD 2022
 
 **TransPIM: A Memory-based Acceleration via SoftwareHardware Co-Design for Transformers**  
 Minxuan Zhou\*, Weihong Xu\*, Jaeyoung Kang, and Tajana Rosing  
-HPCA 2022
+HPCA 2022  
 \* equal contribution
 
 **PIMProf: An Automated Program Profiler for Processing-in-Memory Offloading Decisions**  
@@ -97,9 +97,9 @@ DATE 2022
 Yeseong Kim, Mohsen Imani, Saransh Gupta, Minxuan Zhou, and Tajana Rosing  
 ICCAD 2021
 
-**“Ultra Efficient Acceleration for De Novo Genome Assembly via Near-Memory Computing**  
+**Ultra Efficient Acceleration for De Novo Genome Assembly via Near-Memory Computing**  
 Minxuan Zhou\*, Lingxi Wu\*, Muzhou Li, Niema Moshiri, Kevin Skadron, and Tajana Rosing  
-PACT 2021
+PACT 2021  
 \* equal contribution
 
 **PIM-DL: Boosting DNN Inference on Digital Processing In-Memory Architectures via Data Layout Optimizations**  
