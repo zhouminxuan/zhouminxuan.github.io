@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Minxuan Zhou's Website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Minxuan Zhou"
 description              : &description "Assistant Professor at Illinois Institute of Technology"

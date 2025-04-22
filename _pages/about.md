@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Minxuan Zhou"
 author_profile: true
 redirect_from: 
   - /about/
