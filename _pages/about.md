@@ -28,7 +28,7 @@ ISCA 2025 (to appear)
 \* equal contribution
 
 **HPVM-HDC: A Heterogeneous Programming System for Accelerating Hyperdimensional Computing**  
-Russel Arbore, Xavier Routh, Abdul Rafae, Akash Kothari, Haichao Yang, Weihong Xu, Sumukh Pinge, Vikram Adve, Tajana Rosing, and Minxuan Zhou  
+Russel Arbore, Xavier Routh, Abdul Rafae, Akash Kothari, Haichao Yang, Weihong Xu, Sumukh Pinge, Minxuan Zhou, Tajana Rosing, and Vikram Adve  
 ISCA 2025 (to appear)
 
 **FHEmem: A Processing In-Memory Accelerator for Fully Homomorphic Encryption**  
