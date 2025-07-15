@@ -9,10 +9,11 @@ redirect_from:
 
 I'm an Assistant Professor in the Department of [Computer Science](https://www.iit.edu/computer-science) at [Illinois Institute of Technology](https://www.iit.edu/). I am leading the Emerging Computing Systems (ECS or X) Lab. My research interest includes computer architecture, software-hardware co-design, emerging memory/storage technologies, machine learning acceleration, and privacy-preserving computing.
 
-<span style="color:red">Prospective students: </span> I am actively looking for self-motivated students at all levels for various research projects in the fields of computer architectures, systems, compilers, software-hardware co-design, privacy-preserving computing, and machine learning. The projects will involve active collaborations with UCSD, UIUC, ETH Zurich, UT Dallas, Intel Labs, IBM Research, and other groups at IIT. If you are interested in working with me, please send an email with a subject of "Potential Student" to <span style="color:blue">mzhou26 at iit dot edu</span>.  
+<span style="color:red">Prospective students: </span> I am actively looking for self-motivated students at all levels for various research projects in the fields of computer architectures, systems, compilers, software-hardware co-design, privacy-preserving computing, and machine learning. The projects will involve active collaborations with UCSD, UIUC, ETH Zurich, UT Dallas, Intel Labs, IBM Research, and other groups at IIT. If you are interested in working with me, please send an email with a subject of "Potential Student" to <span style="color:blue">mzhou26 at illinoistech dot edu</span>.  
 
 News
 ======
+**07/2025:** Three papers accepted in ICCAD 2025, eScience2025, and MICRO 2025!  
 **03/2025:** Two papers accepted in ISCA 2025!  
 **03/2025:** Serve as TPC member for ISCA 2025 Industry Track.  
 **02/2025:** Serve as TPC member for DAC 2025.  
@@ -22,14 +23,26 @@ News
 <a id="publication">Publications</a>
 ======
 
+**Stratum: System-Hardware Co-design with Tiered Monolithic 3D-DRAM for Efficient MoE Serving**  
+Yue Pan, Zihan Xia, Po-Kai Hsu, Lanxiang Hu, Hyungyo Kim, Janak Sharda, Minxuan Zhou, Nam Sung Kim, Shimeng Yu, Tajana Rosing, and Mingu Kang  
+MICRO 2025 
+
+**PATHE: A Privacy-Preserving Database Pattern Search Platform with Homomorphic Encryption**  
+Xuan Wang, Minxuan Zhou, Gabrielle De Micheli, Yujin Nam, Sumukh Pinge, Augusto Vega and Tajana Rosing  
+ICCAD 2025  
+
+**Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption**  
+Moontaha Nishat Chowdhury, Andre Bauer, and Minxuan Zhou  
+eScience 2025  
+
 **OptiPIM: Optimizing Processing In-Memory Acceleration Using Integer Linear Programming**  
 Jiantao Liu\*, Minxuan Zhou\*, Yue Pan, Chien-Yi Yang, Lana Josipovic, and Tajana Rosing  
-ISCA 2025 (to appear)  
+ISCA 2025  
 \* equal contribution
 
 **HPVM-HDC: A Heterogeneous Programming System for Accelerating Hyperdimensional Computing**  
 Russel Arbore, Xavier Routh, Abdul Rafae, Akash Kothari, Haichao Yang, Weihong Xu, Sumukh Pinge, Minxuan Zhou, Tajana Rosing, and Vikram Adve  
-ISCA 2025 (to appear)
+ISCA 2025
 
 **FHEmem: A Processing In-Memory Accelerator for Fully Homomorphic Encryption**  
 Minxuan Zhou, Yujin Nam, Pranav Gangwar, Weihong Xu, Arpan Dutta, Chris Wilkerson, Rosario Cammarota, Saransh Gupta, and Tajana Rosing  

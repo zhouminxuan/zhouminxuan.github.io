@@ -1,5 +1,5 @@
 ---
-title: "Computer Architecture"
+title: "Computer Architecture (CS-470)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching
