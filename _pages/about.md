@@ -13,6 +13,7 @@ I'm an Assistant Professor in the Department of [Computer Science](https://www.i
 
 News
 ======
+**08/2025:** NSF has awarded the proposal "CRII: SaTC: Programming and Compilation Framework for Fast, Portable Computation on General Fully Homomorphic Encryption".
 **07/2025:** Three papers accepted in ICCAD 2025, eScience2025, and MICRO 2025!  
 **03/2025:** Two papers accepted in ISCA 2025!  
 **03/2025:** Serve as TPC member for ISCA 2025 Industry Track.  
