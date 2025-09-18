@@ -9,7 +9,7 @@ redirect_from:
 
 I'm an Assistant Professor in the Department of [Computer Science](https://www.iit.edu/computer-science) at [Illinois Institute of Technology](https://www.iit.edu/). I am leading the Emerging Computing Systems (ECS or X) Lab. My research interest includes computer architecture, software-hardware co-design, emerging memory/storage technologies, machine learning acceleration, and privacy-preserving computing.
 
-<span style="color:red">Prospective students: </span> I am actively looking for self-motivated students at all levels for various research projects in the fields of computer architectures, systems, compilers, software-hardware co-design, privacy-preserving computing, and machine learning. The projects will involve active collaborations with UCSD, UIUC, ETH Zurich, UT Dallas, Intel Labs, IBM Research, and other groups at IIT. If you are interested in working with me, please send an email with a subject of "Potential Student" to <span style="color:blue">mzhou26 at illinoistech dot edu</span>.  
+<span style="color:red">Prospective students: </span> I am actively looking for self-motivated students at all levels for various research projects in the fields of computer architectures, systems, compilers, software-hardware co-design, privacy-preserving computing, and machine learning. If you are interested in working with me, please send an email with a subject of "Potential Student" to <span style="color:blue">mzhou26 at illinoistech dot edu</span>.  
 
 News
 ======
