@@ -32,7 +32,7 @@ MICRO 2025
 Xuan Wang, Minxuan Zhou, Gabrielle De Micheli, Yujin Nam, Sumukh Pinge, Augusto Vega and Tajana Rosing  
 ICCAD 2025  
 
-**Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption (Best Student Paper Award)**
+**Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption** ( :tada: Best Student Paper Award)  
 Moontaha Nishat Chowdhury, Andre Bauer, and Minxuan Zhou  
 eScience 2025  
 
