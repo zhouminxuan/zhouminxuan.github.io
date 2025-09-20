@@ -36,7 +36,7 @@ ICCAD 2025
 Moontaha Nishat Chowdhury, Andre Bauer, and Minxuan Zhou  
 eScience 2025  
 
-**OptiPIM: Optimizing Processing In-Memory Acceleration Using Integer Linear Programming**  
+**OptiPIM: Optimizing Processing In-Memory Acceleration Using Integer Linear Programming** ( :tada: Distinguished Artifact Award)  
 Jiantao Liu\*, Minxuan Zhou\*, Yue Pan, Chien-Yi Yang, Lana Josipovic, and Tajana Rosing  
 ISCA 2025  
 \* equal contribution
