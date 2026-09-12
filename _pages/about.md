@@ -13,20 +13,68 @@ I'm an Assistant Professor in the Department of [Computer Science](https://www.i
 
 News
 ======
+**08/2026:** Serve as TPC member for HPCA 2027.  
+**08/2026:** Our paper "PNMAX: Mapping-Architecture Co-Exploration Framework for Processing Near Memory" has been accepted to MICRO'26! Thank all collaborators from UCSD and ETH Zürich!  
+**07/2026:** Our paper "FHEmem: A Processing In-Memory Accelerator for Fully Homomorphic Encryption" won a 2025 Best Paper Runner-Up from TETC! Thank all collaborators from UCSD, Intel, and IBM!  
+**11/2025:** Serve as TPC member for DAC 2026 and ISCA 2026.  
 **08/2025:** NSF has awarded the proposal "CRII: SaTC: Programming and Compilation Framework for Fast, Portable Computation on General Fully Homomorphic Encryption".  
 **07/2025:** Three papers accepted in ICCAD 2025, eScience2025, and MICRO 2025! Our eScience paper was nominated as Best Paper Candidate and won Best Student Paper Award!  
 **03/2025:** Two papers accepted in ISCA 2025! Our OptiPIM paper won the Distinguished Artifact Award!  
-**03/2025:** Serve as TPC member for ISCA 2025 Industry Track.  
-**02/2025:** Serve as TPC member for DAC 2025.  
-**01/2025:** FHEmem paper accepted in IEEE TETC!  
+**11/2024:** Serve as TPC member for DAC 2025 and ISCA 2025 Industry Track.  
 **11/2024:** UFC paper presented in MICRO 2024!
 
-<a id="publication">Publications</a>
+<style>
+details.pub-fold > summary {
+  cursor: pointer;
+  font-weight: bold;
+  list-style: none;
+  display: inline-block;
+  margin-top: 0.5em;
+}
+details.pub-fold > summary::-webkit-details-marker { display: none; }
+details.pub-fold > summary::before {
+  content: "\25B8";
+  display: inline-block;
+  margin-right: 0.4em;
+  font-size: 0.85em;
+  transition: transform 0.2s ease;
+}
+details.pub-fold[open] > summary::before { transform: rotate(90deg); }
+details.pub-fold[open] > summary .pub-fold-show { display: none; }
+details.pub-fold:not([open]) > summary .pub-fold-hide { display: none; }
+</style>
+
+<a id="publication">Recent Publications</a>
 ======
+
+**PNMAX: Mapping-Architecture Co-Exploration Framework for Processing Near Memory**  
+Chien-Yi Yang\*, Jiantao Liu\*, Yue Pan,  Tajana Rosing, and Minxuan Zhou+, and Lana Josipović+  
+MICRO 2026 (to appear)  
+\* equal contribution, + co-corresponding authors  
+
+**PIM-FW: Hardware-Software Co-Design of All-pairs Shortest Paths in DRAM**  
+Tsung-Han Lu, Zheyu Li, Minxuan Zhou, John Hsu, and Tajana Rosing  
+GLVLSI 2026  
+
+**FHEIns: Fully Homomorphic Encryption Acceleration for Large Data Applications with In-Storage Processing**  
+Xuan Wang, Tianqi Zhang, Keming Fan, Augusto Vega, Minxuan Zhou, and Tajana Rosing  
+DATE 2026  
+
+**Rapid-graph: Recursive all-pairs shortest paths using processing-in-memory for dynamic programming on graphs**  
+Yanru Chen, Zheyu Li, Keming Fan, Runyang Tian, John Hsu, Weihong Xu, and Minxuan Zhou, Tajana Rosing  
+DATE 2026  
+
+**Constraint-Scheduled Bayesian Optimization for Software-Hardware Co-Optimization on HDnn-PIM**  
+Chien-Yi Yang, Flavio Ponzina, Minxuan Zhou, Raid Ayoub, Pietro Mercati, and Tajana Rosing  
+IEEE Embedded Systems Letters 2026  
+
+**Proxima: Near-storage acceleration for graph-based approximate nearest neighbor search in 3d nand**  
+Weihong Xu, Junwei Chen, Po-Kai Hsu, Jaeyoung Kang, Minxuan Zhou, Sumukh Pinge, Shimeng Yu, and Tajana Rosing  
+IEEE Transactions on Computers 2026  
 
 **Stratum: System-Hardware Co-design with Tiered Monolithic 3D-DRAM for Efficient MoE Serving**  
 Yue Pan, Zihan Xia, Po-Kai Hsu, Lanxiang Hu, Hyungyo Kim, Janak Sharda, Minxuan Zhou, Nam Sung Kim, Shimeng Yu, Tajana Rosing, and Mingu Kang  
-MICRO 2025 
+MICRO 2025  
 
 **PATHE: A Privacy-Preserving Database Pattern Search Platform with Homomorphic Encryption**  
 Xuan Wang, Minxuan Zhou, Gabrielle De Micheli, Yujin Nam, Sumukh Pinge, Augusto Vega and Tajana Rosing  
@@ -37,7 +85,7 @@ Moontaha Nishat Chowdhury, Andre Bauer, and Minxuan Zhou
 eScience 2025  
 
 **OptiPIM: Optimizing Processing In-Memory Acceleration Using Integer Linear Programming** ( :tada: Distinguished Artifact Award)  
-Jiantao Liu\*, Minxuan Zhou\*, Yue Pan, Chien-Yi Yang, Lana Josipovic, and Tajana Rosing  
+Jiantao Liu\*, Minxuan Zhou\*, Yue Pan, Chien-Yi Yang, Lana Josipović, and Tajana Rosing  
 ISCA 2025  
 \* equal contribution
 
@@ -45,9 +93,14 @@ ISCA 2025
 Russel Arbore, Xavier Routh, Abdul Rafae, Akash Kothari, Haichao Yang, Weihong Xu, Sumukh Pinge, Minxuan Zhou, Tajana Rosing, and Vikram Adve  
 ISCA 2025
 
-**FHEmem: A Processing In-Memory Accelerator for Fully Homomorphic Encryption**  
+**FHEmem: A Processing In-Memory Accelerator for Fully Homomorphic Encryption** ( :tada: Best Paper Runner-Up)  
 Minxuan Zhou, Yujin Nam, Pranav Gangwar, Weihong Xu, Arpan Dutta, Chris Wilkerson, Rosario Cammarota, Saransh Gupta, and Tajana Rosing  
 IEEE TETC 2025
+
+<details class="pub-fold">
+<summary><span class="pub-fold-show">Show all publications</span><span class="pub-fold-hide">Show fewer publications</span></summary>
+
+<div markdown="1">
 
 **RelHDx: Hyperdimensional Computing for Learning on Graphs with FeFET Acceleration**  
 Jaeyoung Kang, Minxuan Zhou, Weihong Xu, and Tajana Rosing  
@@ -169,6 +222,9 @@ ISLPED 2018
 **HV 2 M: A novel approach to boost inter-VM network performance for Xen-based HVMs**  
 Cheng Kun, Yuebin Bai, Yongwang Zhao, Yao Ma, Duo Lu, Yuanfeng Peng, and Minxuan Zhou  
 JSS 2016
+
+</div>
+</details>
 
 <!-- Research Overview
 ======
