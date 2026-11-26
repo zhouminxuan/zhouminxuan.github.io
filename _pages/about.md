@@ -13,8 +13,12 @@ I'm an Assistant Professor in the Department of [Computer Science](https://www.i
 
 News
 ======
+**11/2026:** Receive a gift as a co-PI from Amazon for the collaborative research with UT Dallas on "Accelerating Hyperbolic Machine Learning".  
+**11/2026:** Serve as TPC member for DAC 2027 and ISCA 2027.  
+**11/2026:** Our paper "PNMAX: Mapping-Architecture Co-Exploration Framework for Processing Near Memory" won a Best Artifact Honorable Mention Award at MICRO'26!  
+**10/2026:** Our paper "HyPIM: Accelerating Hyperbolic Machine Learning via Processing-In-Memory" is presented at CCMCC'26.  
 **08/2026:** Serve as TPC member for HPCA 2027.  
-**08/2026:** Our paper "PNMAX: Mapping-Architecture Co-Exploration Framework for Processing Near Memory" has been accepted to MICRO'26! Thank all collaborators from UCSD and ETH Zürich!  
+**08/2026:** Our paper "PNMAX: Mapping-Architecture Co-Exploration Framework for Processing Near Memory" is accepted to MICRO'26! Thank all collaborators from UCSD and ETH Zürich!  
 **07/2026:** Our paper "FHEmem: A Processing In-Memory Accelerator for Fully Homomorphic Encryption" won a 2025 Best Paper Runner-Up from TETC! Thank all collaborators from UCSD, Intel, and IBM!  
 **11/2025:** Serve as TPC member for DAC 2026 and ISCA 2026.  
 **08/2025:** NSF has awarded the proposal "CRII: SaTC: Programming and Compilation Framework for Fast, Portable Computation on General Fully Homomorphic Encryption".  
